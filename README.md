@@ -32,4 +32,4 @@ Click [here](https://youtu.be/AQPZxMb1I2k) to watch a demo video showcasing the 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
