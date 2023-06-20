@@ -13,7 +13,6 @@ To install the necessary components, please follow the steps below:
    ```shell
    pip install numpy
    pip install dynamixel_sdk
-   pip install PySocks
    ```
 These commands will install the required Python packages for the project.
 
